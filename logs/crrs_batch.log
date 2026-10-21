@@ -1,0 +1,28 @@
+2026-04-24 22:58:21 INFO  com.abcbs.crrs.CrrsBatchApplication - Starting CrrsBatchApplication using Java 17.0.12 with PID 7208 (C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch\target\classes started by Navya Sri Durga in C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch)
+2026-04-24 22:58:21 DEBUG com.abcbs.crrs.CrrsBatchApplication - Running with Spring Boot v3.5.5, Spring v6.2.10
+2026-04-24 22:58:21 INFO  com.abcbs.crrs.CrrsBatchApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-24 23:02:35 INFO  com.abcbs.crrs.CrrsBatchApplication - Starting CrrsBatchApplication using Java 17.0.12 with PID 8156 (C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch\target\classes started by Navya Sri Durga in C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch)
+2026-04-24 23:02:35 DEBUG com.abcbs.crrs.CrrsBatchApplication - Running with Spring Boot v3.5.5, Spring v6.2.10
+2026-04-24 23:02:35 INFO  com.abcbs.crrs.CrrsBatchApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-24 23:05:11 INFO  com.abcbs.crrs.CrrsBatchApplication - Starting CrrsBatchApplication using Java 17.0.12 with PID 6920 (C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch\target\classes started by Navya Sri Durga in C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch)
+2026-04-24 23:05:11 DEBUG com.abcbs.crrs.CrrsBatchApplication - Running with Spring Boot v3.5.5, Spring v6.2.10
+2026-04-24 23:05:11 INFO  com.abcbs.crrs.CrrsBatchApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-24 23:05:38 INFO  com.abcbs.crrs.config.P09373Config - Configuring Step: P09373Step with chunk size = 2000
+2026-04-24 23:05:38 INFO  com.abcbs.crrs.config.P09373Config - Configuring Job: P09373Job
+2026-04-24 23:05:38 INFO  com.abcbs.crrs.config.P09175Config - Creating step: P09175Step (tasklet)
+2026-04-24 23:05:38 INFO  com.abcbs.crrs.config.P09175Config - Creating job: P09175Job
+2026-04-24 23:05:38 INFO  com.abcbs.crrs.config.RetryConfig - Entered into RetryTemplate
+2026-04-24 23:05:41 INFO  com.abcbs.crrs.CrrsBatchApplication - Started CrrsBatchApplication in 31.941 seconds (process running for 34.01)
+2026-04-24 23:05:41 INFO  com.abcbs.crrs.config.JobLauncherRunner - Entered into run
+2026-04-24 23:05:41 INFO  com.abcbs.crrs.config.JobLauncherRunner - Requested for P09390
+2026-04-24 23:10:59 INFO  com.abcbs.crrs.CrrsBatchApplication - Starting CrrsBatchApplication using Java 17.0.12 with PID 15812 (C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch\target\classes started by Navya Sri Durga in C:\Users\Navya Sri Durga\eclipse-workspace\CRRSBatch)
+2026-04-24 23:10:59 DEBUG com.abcbs.crrs.CrrsBatchApplication - Running with Spring Boot v3.5.5, Spring v6.2.10
+2026-04-24 23:10:59 INFO  com.abcbs.crrs.CrrsBatchApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-24 23:11:25 INFO  com.abcbs.crrs.config.P09373Config - Configuring Step: P09373Step with chunk size = 2000
+2026-04-24 23:11:25 INFO  com.abcbs.crrs.config.P09373Config - Configuring Job: P09373Job
+2026-04-24 23:11:25 INFO  com.abcbs.crrs.config.P09175Config - Creating step: P09175Step (tasklet)
+2026-04-24 23:11:25 INFO  com.abcbs.crrs.config.P09175Config - Creating job: P09175Job
+2026-04-24 23:11:26 INFO  com.abcbs.crrs.config.RetryConfig - Entered into RetryTemplate
+2026-04-24 23:11:28 INFO  com.abcbs.crrs.CrrsBatchApplication - Started CrrsBatchApplication in 31.457 seconds (process running for 33.765)
+2026-04-24 23:11:28 INFO  com.abcbs.crrs.config.JobLauncherRunner - Entered into run
+2026-04-24 23:11:28 INFO  com.abcbs.crrs.config.JobLauncherRunner - Requested for P09390
